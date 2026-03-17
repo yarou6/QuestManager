@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuestManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64e2f8c11ede6c5b1a1a0bc2b49ed2da98c70b88")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuestManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuestManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

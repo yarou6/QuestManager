@@ -1,0 +1,15 @@
+/home/student/RiderProjects/QuestManager/QuestManager/bin/Debug/net8.0/QuestManager
+/home/student/RiderProjects/QuestManager/QuestManager/bin/Debug/net8.0/QuestManager.deps.json
+/home/student/RiderProjects/QuestManager/QuestManager/bin/Debug/net8.0/QuestManager.runtimeconfig.json
+/home/student/RiderProjects/QuestManager/QuestManager/bin/Debug/net8.0/QuestManager.dll
+/home/student/RiderProjects/QuestManager/QuestManager/bin/Debug/net8.0/QuestManager.pdb
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.AssemblyInfoInputs.cache
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.AssemblyInfo.cs
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.csproj.CoreCompileInputs.cache
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.sourcelink.json
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.dll
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/refint/QuestManager.dll
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.pdb
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/QuestManager.genruntimeconfig.cache
+/home/student/RiderProjects/QuestManager/QuestManager/obj/Debug/net8.0/ref/QuestManager.dll
